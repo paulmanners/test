@@ -3,7 +3,9 @@
 <body>
 
 <h1>My First FLASK APP</h1>
-<p>My first paragraph.</p>
+<p>TEST PHP in da house.</p>
+
+<?php phpinfo(); ?>
 
 </body>
 </html>
